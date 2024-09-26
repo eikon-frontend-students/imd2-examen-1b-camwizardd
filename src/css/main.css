@@ -74,6 +74,22 @@ video {
 }
 
 /* 01. Sélecteurs CSS */
+h3,
+h4 {
+  font-family: "Libre Baskerville";
+}
+
+.section-sport h4 {
+  color: #78290f;
+}
+
+.section-culture h4 {
+  color: #15616d;
+}
+
+.first.highlighted {
+  background-color: #faf0ca;
+}
 
 /* 02. Centrer horizontalement */
 
@@ -92,6 +108,7 @@ video {
   color: #fdf0d5;
   font-family: "Libre Baskerville";
   text-transform: uppercase;
+  text-align: center;
 }
 
 /* 03. Centrer verticalement */
