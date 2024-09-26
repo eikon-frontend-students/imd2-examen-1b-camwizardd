@@ -127,6 +127,8 @@ h4 {
   padding: 20px;
   border-radius: 10px;
   background: #669bbc;
+  display: flex;
+  align-items: center;
 }
 
 .button {
@@ -135,6 +137,7 @@ h4 {
   background: #780000;
   color: #fdf0d5;
   text-align: center;
+  padding: 20px;
 }
 
 /* 04. Intégration */
