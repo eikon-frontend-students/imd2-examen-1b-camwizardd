@@ -109,6 +109,13 @@ h4 {
   font-family: "Libre Baskerville";
   text-transform: uppercase;
   text-align: center;
+  margin: auto;
+}
+
+.calltoaction-container {
+  display: flex;
+  justify-content: center;
+  text-align: center;
 }
 
 /* 03. Centrer verticalement */
